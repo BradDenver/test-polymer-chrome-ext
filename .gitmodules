@@ -1,0 +1,3 @@
+[submodule "polymer-chrome-app"]
+	path = polymer-chrome-app
+	url = https://github.com/Polymer/polymer-chrome-app.git
