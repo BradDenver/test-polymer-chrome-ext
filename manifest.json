@@ -7,6 +7,9 @@
         "default_title": "polymer test",
         "default_popup": "popup.html"
     },
+    "background": {
+        "scripts": ["background.js"]
+    },
     "sandbox": {
 		"pages": [
 			"popframe.html"
