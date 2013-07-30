@@ -1,0 +1,1 @@
+why does x fail with `Uncaught TypeError: Property 'Polymer' of object [object Object] is not a function` but y works?
